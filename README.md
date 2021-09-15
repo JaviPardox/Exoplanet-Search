@@ -1,1 +1,1 @@
-# machine-learning
+# Exoplanet search
